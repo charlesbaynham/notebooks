@@ -1,0 +1,5 @@
+poetry
+matplotlib
+numpy
+pandas
+jupyterlab
